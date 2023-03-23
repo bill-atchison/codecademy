@@ -2,9 +2,19 @@ public class Entity {
     private int hitPoints;
     private int damage;
     private String weapon;
+    private String name;
 
-    public Entity(int hitPoints) {
+    public Entity(String name, int hitPoints) {
+        this.name = name;
         this.hitPoints = hitPoints;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public int getHitPoints() {

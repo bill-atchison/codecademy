@@ -1,3 +1,5 @@
+import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class EntityTest {
@@ -5,7 +7,7 @@ class EntityTest {
 
     @org.junit.jupiter.api.BeforeEach
     void setUp() {
-        entity = new Entity(100);
+        entity = new Entity("Bill", 100);
         entity.setDamage(50);
         entity.setWeapon("Mace");
     }
@@ -42,5 +44,16 @@ class EntityTest {
     void setWeapon() {
         entity.setWeapon("Hand");
         assertEquals("Hand", entity.getWeapon());
+    }
+
+    @Test
+    void getName() {
+        assertEquals("Bill", entity.getName());
+    }
+
+    @Test
+    void setName() {
+        entity.setName("Joe");
+        assertEquals("Joe", entity.getName());
     }
 }
