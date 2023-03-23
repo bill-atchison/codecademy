@@ -56,4 +56,13 @@ class EntityTest {
         entity.setName("Joe");
         assertEquals("Joe", entity.getName());
     }
+
+    @Test
+    void takeDamage() {
+        entity.takeDamage();
+        assertTrue(entity.getHitPoints() < 100);
+        entity.setHitPoints(1);
+        entity.takeDamage();
+        assertEquals(0, entity.getHitPoints());
+    }
 }

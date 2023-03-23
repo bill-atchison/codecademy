@@ -20,9 +20,17 @@ class AlienTest {
     void setMutated() {
         alien.setMutated(true);
         assertTrue(alien.isMutated());
+        assertEquals(250, alien.getMaxHitPoints());
+        assertEquals(250, alien.getHitPoints());
     }
 
     @Test
     void regenerate() {
+        alien.setHitPoints(50);
+        alien.regenerate();
+        assertTrue(alien.getHitPoints() > 50);
+        alien.setHitPoints(200);
+        alien.regenerate();
+        assertEquals(alien.getHitPoints(), alien.getMaxHitPoints());
     }
 }
