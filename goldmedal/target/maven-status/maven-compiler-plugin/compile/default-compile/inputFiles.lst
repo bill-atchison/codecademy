@@ -3,6 +3,8 @@ D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldm
 D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\model\CountriesResponse.java
 D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\model\CountrySummary.java
 D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\model\Medals.java
+D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\repositories\CountryRepository.java
+D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\repositories\GoldMedalRepository.java
 D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\model\CountryDetailsResponse.java
 D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\model\GoldMedal.java
 D:\Projects\IdeaProjects\codecademy\goldmedal\src\main\java\com\codecademy\goldmedal\model\CountryMedalsListResponse.java
