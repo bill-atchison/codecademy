@@ -1,0 +1,15 @@
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.exe
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.deps.json
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.runtimeconfig.json
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.dll
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.pdb
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.csproj.AssemblyReference.cache
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.AssemblyInfoInputs.cache
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.AssemblyInfo.cs
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.dll
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\refint\ExquisiteCorpse.dll
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.pdb
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.genruntimeconfig.cache
+C:\Projects\GitHub\codecademy\C#\ExquisiteCorpse\obj\Debug\net7.0\ref\ExquisiteCorpse.dll

@@ -1,0 +1,15 @@
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.exe
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.deps.json
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.runtimeconfig.json
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.dll
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.pdb
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.dll
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\refint\ChooseYourOwnAdventure.dll
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.pdb
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\Projects\GitHub\codecademy\C#\ChooseYourOwnAdventure\obj\Debug\net7.0\ref\ChooseYourOwnAdventure.dll

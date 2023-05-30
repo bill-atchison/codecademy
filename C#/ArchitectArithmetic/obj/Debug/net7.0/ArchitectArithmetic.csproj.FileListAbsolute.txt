@@ -1,0 +1,15 @@
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.exe
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.deps.json
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.runtimeconfig.json
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.dll
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\bin\Debug\net7.0\ArchitectArithmetic.pdb
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.csproj.AssemblyReference.cache
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.AssemblyInfo.cs
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.dll
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\refint\ArchitectArithmetic.dll
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.pdb
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ArchitectArithmetic.genruntimeconfig.cache
+C:\Projects\GitHub\codecademy\C#\ArchitectArithmetic\obj\Debug\net7.0\ref\ArchitectArithmetic.dll
